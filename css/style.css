@@ -988,6 +988,7 @@ aside li a:hover {
     padding: 172px 0 10px 0;
     display: flex;
     align-items: flex-end;
+    overflow: hidden;
 }
 
 .hero .container {
@@ -1058,6 +1059,7 @@ aside li a:hover {
     background: var(--dark);
     background-size: 180% 180%;
     animation: gradient-animation 5s ease infinite;
+    overflow: hidden;
     
 }
 
@@ -1281,7 +1283,7 @@ aside li a:hover {
     justify-content: center; /* Center horizontally */
     align-items: center;
     position: relative;
-    bottom: 50px;
+    margin-top: 50px;
     width: 100%;
     padding: 0 10px;
     overflow: hidden;
