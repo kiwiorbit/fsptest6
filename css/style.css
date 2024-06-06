@@ -230,7 +230,7 @@ iframe {
 
 /* ===== 02. Global Style ===== */
 body {
-    overflow: hidden;
+    overflow-x: hidden;
 }
 
 .wrapper {
